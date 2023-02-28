@@ -1,0 +1,827 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.Frame2 {
+    position: absolute;
+    width: 1920px;
+    height: 604px;
+    left: 1996px;
+    top: 249px;
+    background: url(../img/Rectangle_2.png), #000000;
+}
+
+.home_desktop {
+    position: relative;
+    width: 1920px;
+    height: 1992px;
+    background: #FFFFFF;
+}
+
+.top-line {
+    position: absolute;
+    width: 1920px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    background: #EFEFEF;
+}
+
+.top-line_menu {
+    position: absolute;
+    width: 447px;
+    height: 17px;
+    left: 736px;
+    top: 17px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #333333;
+}
+
+.contacts {
+    position: absolute;
+    width: 65px;
+    height: 17px;
+    left: 382px;
+    top: 0px;
+}
+
+.question-answer {
+    position: absolute;
+    width: 96px;
+    height: 17px;
+    left: 256px;
+    top: 0px;
+}
+
+.reviews {
+    position: absolute;
+    width: 54px;
+    height: 17px;
+    left: 172px;
+    top: 0px;
+}
+
+.payment {
+    position: absolute;
+    width: 48px;
+    height: 17px;
+    left: 94px;
+    top: 0px;
+}
+
+.shipping {    
+    position: absolute;
+    width: 64px;
+    height: 17px;
+    left: 0px;
+    top: 0px;
+}
+
+.second-line {
+    position: absolute;
+    width: 1920px;
+    height: 149px;
+    left: 0px;
+    top: 70px;
+}
+
+.second-line_main-menu {
+    position: absolute;
+    width: 675px;
+    height: 19px;
+    left: 622px;
+    top: 130px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.furniture {
+    position: absolute;
+    width: 58px;
+    height: 19px;
+    left: 617px;
+    top: 0px;
+}
+
+.massage {
+    position: absolute;
+    width: 61px;
+    height: 19px;
+    left: 516px;
+    top: 0px;
+}
+
+.pedicure {
+    position: absolute;
+    width: 70px;
+    height: 19px;
+    left: 406px;
+    top: 0px;
+}
+
+.manicure {
+    position: absolute;
+    width: 72px;
+    height: 19px;
+    left: 294px;
+    top: 0px;
+}
+
+.berbershop {
+    position: absolute;
+    width: 86px;
+    height: 19px;
+    left: 168px;
+    top: 0px;
+}
+
+.hairdressers_shop {
+    position: absolute;
+    width: 128px;
+    height: 19px;
+    left: 0px;
+    top: 0px;
+}
+
+.line {
+    position: absolute;
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 100px;
+    border: 1px solid #EFEFEF;
+}
+
+.BEAUTY {
+    position: absolute;
+    width: 158px;
+    height: 39px;
+    left: 505px;
+    top: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.1em;
+    color: #66C05D;
+}
+
+.logo {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 405px;
+    top: 0px;
+}
+
+.telephone {
+    position: absolute;
+    width: 127px;
+    height: 19px;
+    left: 1178px;
+    top: 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.second-line_button {
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 1345px;
+    top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+    border: 2px solid #66C05D;
+    border-radius: 40px;
+}
+
+.sale {
+    position: absolute;
+    width: 1920px;
+    height: 604px;
+    left: 0px;
+    top: 179px;
+    background: url(../img/Rectangle_2.png), #000000;
+}
+
+.group {
+    position: absolute;
+    width: 308px;
+    height: 219px;
+    left: 405px;
+    top: 192px;
+}
+
+.ddd1 {
+    position: absolute;
+    width: 308px;
+    height: 44px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+
+.ddd2 {
+    position: absolute;
+    width: 308px;
+    height: 35px;
+    left: 0px;
+    top: 94px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.second-line_button_ddd3 {
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 0px;
+    top: 179px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    background: #66C05D;
+    border: 2px solid #FFFFFF;
+    border-radius: 40px;
+}
+
+.bdc {
+    position: absolute;
+    width: 1920px;
+    height: 954px;
+    left: 0px;
+    top: 853px;
+    background: #EFEFEF;
+    z-index: 1;
+}
+
+.text11 {
+    position: absolute;
+    width: 320px;
+    height: 29px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.goods {
+    position: absolute;
+    width: 1110px;
+    height: 430px;
+    left: 405px;
+    top: 933px;
+    z-index: 5;
+}
+
+.goods4 {    
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 855px;
+    top: 67px;
+    background: #FFFFFF;
+}
+
+.o9900 {
+    position: absolute;
+    width: 80px;
+    height: 19px;
+    left: 80px;
+    top: 267px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.Rectangle_4 {    
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+
+.goods4_button {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    background: #66C05D;
+    border-radius: 30px;
+}
+
+.text10 {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;
+}
+
+.goods3 {    
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 570px;
+    top: 67px;
+    background: #FFFFFF;
+}
+
+.p9900 {
+    position: absolute;
+    width: 80px;
+    height: 19px;
+    left: 80px;
+    top: 267px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.Rectangle_3 {    
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+
+.goods3_button {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    background: #66C05D;
+    border-radius: 30px;
+}
+
+.text9 {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;
+}
+
+.goods2 {    
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 293px;
+    top: 67px;
+    background: #FFFFFF;
+}
+
+.q9900 {
+    position: absolute;
+    width: 80px;
+    height: 19px;
+    left: 80px;
+    top: 267px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.Rectangle_2 {    
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+
+.goods2_button {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    background: #66C05D;
+    border-radius: 30px;
+}
+
+.text8 {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;
+}
+
+.goods1 {    
+    position: absolute;
+    width: 255px;
+    height: 363px;
+    left: 0px;
+    top: 67px;
+    background: #FFFFFF;
+}
+
+.r9900 {
+    position: absolute;
+    width: 80px;
+    height: 19px;
+    left: 80px;
+    top: 267px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.Rectangle_1 {    
+    position: absolute;
+    width: 125px;
+    height: 166px;
+    left: 65px;
+    top: 25px;
+}
+
+.goods1_button {
+    position: absolute;
+    width: 130px;
+    height: 35px;
+    left: 62px;
+    top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    background: #66C05D;
+    border-radius: 30px;
+}
+
+.text7 {
+    position: absolute;
+    width: 195px;
+    height: 33px;
+    left: 30px;
+    top: 211px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;
+}
+
+.subscribe {
+    position: absolute;
+    width: 540px;
+    height: 212px;
+    left: 405px;
+    top: 1463px;
+    background: #66C05D;
+    z-index: 4;
+}
+
+.text3 {
+    position: absolute;
+    width: 231px;
+    height: 40px;
+    left: 40px;
+    top: 77px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.text4 {
+    position: absolute;
+    width: 250px;
+    height: 17px;
+    left: 40px;
+    top: 35px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.subscribe__input {
+    position: absolute;
+    width: 225px;
+    height: 35px;
+    left: 40px;
+    top: 142px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #C4C4C4;
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+.envelope {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    left: 355px;
+    top: 36px;
+}
+
+.subscribe2 {
+    position: absolute;
+    width: 540px;
+    height: 212px;
+    left: 975px;
+    top: 1463px;
+    background: #66C05D;
+    z-index: 3;
+}
+
+.text5 {
+    position: absolute;
+    width: 141px;
+    height: 40px;
+    left: 40px;
+    top: 77px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+}
+
+.text6 {
+    position: absolute;
+    width: 250px;
+    height: 17px;
+    left: 40px;
+    top: 35px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.our_shops_button {
+    position: absolute;
+    width: 170px;
+    height: 35px;
+    left: 40px;
+    top: 142px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #66C05D;
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+}
+
+
+footer {    
+    position: absolute;
+    width: 1920px;
+    height: 184px;
+    left: 0px;
+    top: 1808px;
+    background: linear-gradient(#FFFFFF 65.2%, #EFEFEF 34.8%);
+}
+
+.private_policy {
+    position: absolute;
+    width: 181px;
+    height: 14px;
+    left: 1334px;
+    top: 145px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: right;
+    color: #828282;
+}
+
+.best_shop {
+    position: absolute;
+    width: 584px;
+    height: 14px;
+    left: 405px;
+    top: 145px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+}
+
+.footer_line {
+    position: absolute;
+    width: 1110px;
+    height: 45px;
+    left: 405px;
+    top: 37px;
+}
+
+.group1 {
+    position: absolute;
+    left: 24.9%;
+    right: 73.64%;
+    top: 15px;
+    bottom: 52px;
+    background: #66C05D;
+}
+
+.vector1 {
+    position: absolute;
+    left: 21.67%;
+    right: 77.19%;
+    top: 15px;
+    bottom: 52px;
+    background: #66C05D;
+}
+
+.instagram1 {
+    position: absolute;
+    left: 31.36%;
+    right: 70.19%;
+    top: 15px;
+    bottom: 52px;
+    background: #66C05D;
+}
+
+.facebook-logo1 {
+    position: absolute;
+    left: 28.13%;
+    right: 67.19%;
+    top: 15px;
+    bottom: 52px;
+    background: #66C05D;
+}
+
+.text1 {
+    position: absolute;
+    width: 227px;
+    height: 16px;
+    left: 441px;
+    top: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    width: 127px;
+    height: 19px;
+    left: 773px;
+    top: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.second-line_button {    
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 940px;
+    top: 3px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+    background: #FFFFFF;
+    border: 2px solid #66C05D;
+    border-radius: 40px;
+}
